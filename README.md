@@ -18,6 +18,4 @@
    it's will look like the next example: 
    <img width="1048" alt="Screen Shot 2019-08-29 at 23 26 37" src="https://user-images.githubusercontent.com/16443118/63974089-cc2dfa00-cab4-11e9-9b1c-73e6138fee22.png">
 
-
-    Thanks 
-    Sagi Marciano
+#### Thanks - Sagi
