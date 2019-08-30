@@ -7,7 +7,7 @@
   
 
 ## Instalision: 
-  ### require python 3.7 
+  ### Require python 3.7 
   1. Download the files 
   2. Download the [weight](https://github.com/linhdvu14/vggvox-speaker-identification/blob/master/data/model/weights.h5)
   3. Install all the relevat libery 
